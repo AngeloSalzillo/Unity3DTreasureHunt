@@ -1,5 +1,6 @@
 # 3D Treasure Hunt
 
+![](images/forest_1.jpg)
 A 3D adventure treasure hunt prototype developed in Unity.
 The player explores a stylized environment, interacts with objects, and fights using combo attacks while being guided by a magical fairy companion.
 
