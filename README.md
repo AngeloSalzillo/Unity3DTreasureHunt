@@ -27,6 +27,6 @@ The project focuses on exploration mechanics and visual atmosphere through shade
 - Use of skyboxes and volumetric clouds to create immersive atmospheric lighting
 - Implementation of character animations sequences and gameplay interactions
 
-
+![](images/walk_1.jpg)
 
 
