@@ -1,2 +1,6 @@
-# Unity3DTreasureHunt
-3D treasure-hunt adventure built in Unity. The player explores environments, fights using attack combos, and interacts with destructible objects while guided by a fairy companion. Focused on responsive gameplay mechanics, animation systems, and interactive exploration.
+# 3D Treasure Hunt
+
+A 3D adventure treasure hunt prototype developed in Unity.
+The player explores a stylized environment, interacts with objects, and fights using combo attacks while being guided by a magical fairy companion.
+
+The project focuses on exploration mechanics and visual atmosphere through shaders, particle systems, and environmental effects.
